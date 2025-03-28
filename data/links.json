@@ -1,122 +1,237 @@
 [
     {
-        "Dispute Resolution": {
-            "Links": [
-                "https://catalog.data.gov/dataset?q=Civic+engagement+initiatives+&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent="
-            ],
-            "Type": "Open Data"
+        "Social Inclusion": {
+            "Dispute Resolution": {
+                "Links": [
+                    "https://catalog.data.gov/dataset?q=Civic+engagement+initiatives+&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent="
+                ],
+                "Type": "Open Data"
+            }
         }
     },
     {
-        "Civic engagement initiatives": {
-            "Links": [
-                "https://catalog.data.gov/dataset/?tags=capacity-building"
-            ],
-            "Type": "Open Data"
+        "Civil society": {
+            "Civic engagement initiatives": {
+                "Links": [
+                    "https://catalog.data.gov/dataset/?tags=capacity-building"
+                ],
+                "Type": "Open Data"
+            }
         }
     },
     {
-        "Civilian police reform": {
-            "Links": [
-                "https://catalog.data.gov/dataset?q=Civil+society+capacity+building&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent="
-            ],
-            "Type": "Open Data"
+        "Safe environment": {
+            "Civilian police reform": {
+                "Links": [
+                    "https://catalog.data.gov/dataset?q=Civil+society+capacity+building&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent="
+                ],
+                "Type": "Open Data"
+            }
         }
     },
     {
-        "Conflict-focused early warning systems": {
-            "Links": [
-                "https://catalog.data.gov/dataset?q=Civilian+police+reform"
-            ],
-            "Type": "Open Data"
+        "Safe environment": {
+            "Conflict-focused early warning systems": {
+                "Links": [
+                    "https://catalog.data.gov/dataset?q=Civilian+police+reform"
+                ],
+                "Type": "Open Data"
+            }
         }
     },
     {
-        "Civil society capacity building": {
-            "Links": [
-                "https://catalog.data.gov/dataset/?tags=improved-natural-resource-management"
-            ],
-            "Type": "Open Data"
+        "Civil society": {
+            "Civil society capacity building": {
+                "Links": [
+                    "https://catalog.data.gov/dataset/?tags=improved-natural-resource-management"
+                ],
+                "Type": "Open Data"
+            }
         }
     },
     {
-        "Community-based natural resource management": {
-            "Links": [
-                "https://catalog.data.gov/dataset?q=Conflict-focused+early+warning+systems"
-            ],
-            "Type": "Open Data"
+        "Economic Foundation": {
+            "Community-based natural resource management": {
+                "Links": [
+                    "https://catalog.data.gov/dataset?q=Conflict-focused+early+warning+systems"
+                ],
+                "Type": "Open Data"
+            }
         }
     },
     {
-        "Infrastructure development and reconstruction": {
-            "Links": [
-                "https://catalog.data.gov/dataset?q=Countering+violent+extremism&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent="
-            ],
-            "Type": "Open Data"
+        "Economic Foundation": {
+            "Infrastructure development and reconstruction": {
+                "Links": [
+                    "https://catalog.data.gov/dataset?q=Countering+violent+extremism&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent="
+                ],
+                "Type": "Open Data"
+            }
         }
     },
     {
-        "Justice and human rights support": {
-            "Links": [
-                "https://catalog.data.gov/dataset/?tags=dispute-resolution"
-            ],
-            "Type": "Open Data"
+        "Civil society": {
+            "Justice and human rights support": {
+                "Links": [
+                    "https://catalog.data.gov/dataset/?tags=dispute-resolution",
+                    "https://data.humdata.org/dataset/?vocab_Topics=complex+emergency-conflict-security&vocab_Topics=conflict-violence&vocab_Topics=human+rights&vocab_Topics=humanitarian+access&vocab_Topics=peacekeeping&vocab_Topics=governance+and+civil+society&q=&sort=last_modified+desc&ext_page_size=25&page=1"
+                ],
+                "Type": "Open Data"
+            }
         }
     },
     {
-        "Countering violent extremism": {
-            "Links": [
-                "https://catalog.data.gov/dataset/?tags=infrastructure"
-            ],
-            "Type": "Open Data"
+        "Safe environment": {
+            "Countering violent extremism": {
+                "Links": [
+                    "https://catalog.data.gov/dataset/?tags=gender-equality",
+                    "https://catalog.data.gov/dataset/?_organization_limit=0&_res_format_limit=0&_publisher_limit=0&_tags_limit=0&tags=womens-empowerment",
+                    "https://data.humdata.org/dataset/?vocab_Topics=boys&vocab_Topics=gender&vocab_Topics=gender-based+violence-gbv&vocab_Topics=girls&vocab_Topics=men&vocab_Topics=sex+and+age+disaggregated+data-sadd&vocab_Topics=women&vocab_Topics=disability&q=&sort=last_modified+desc&ext_page_size=25"
+                ],
+                "Type": "Open Data"
+            }
         }
     },
     {
-        "Transboundary water sharing": {
-            "Links": [
-                "https://catalog.data.gov/dataset?q=Justice+and+human+rights+support&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent="
-            ],
-            "Type": "Open Data "
+        "Economic Foundation": {
+            "Transboundary water sharing": {
+                "Links": [
+                    "https://catalog.data.gov/dataset/?tags=infrastructure"
+                ],
+                "Type": "Open Data "
+            }
         }
     },
     {
-        "National natural resource benefits sharing": {
-            "Links": [
-                "https://catalog.data.gov/dataset/?+Wellness=&res_format=DOC&publisher=Millennium+Challenge+Corporation&tags=policy-and-institutional-reform&tags=land-markets"
-            ],
-            "Type": "Open Data"
+        "Economic Foundation": {
+            "National natural resource benefits sharing": {
+                "Links": [
+                    "https://catalog.data.gov/dataset/?tags=conflict-resolution",
+                    "https://data.humdata.org/dataset/?vocab_Topics=governance+and+civil+society&q=&sort=last_modified+desc&ext_page_size=25"
+                ],
+                "Type": "Open Data"
+            }
         }
     },
     {
-        "Land reform": {
-            "Links": [
-                "https://catalog.data.gov/dataset?q=National+natural+resource+benefits+sharing&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent="
-            ],
-            "Type": "Open Data"
+        "State Institution": {
+            "Land reform": {
+                "Links": [
+                    "https://catalog.data.gov/dataset?q=Justice+and+human+rights+support&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent="
+                ],
+                "Type": "Open Data"
+            }
         }
     },
     {
-        "Civic society capacity building": {
-            "Links": [
-                "https://catalog.data.gov/dataset?q=Preventative+protection+measures&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent="
-            ],
-            "Type": "Open Data"
+        "Civil society": {
+            "Civic society capacity building": {
+                "Links": [
+                    "https://catalog.data.gov/dataset/?+Wellness=&res_format=DOC&publisher=Millennium+Challenge+Corporation&tags=policy-and-institutional-reform&tags=land-markets"
+                ],
+                "Type": "Open Data"
+            }
         }
     },
     {
-        "Preventative protection measures": {
-            "Links": [
-                "https://catalog.data.gov/dataset/?q=Social+funds%2C+community-driven+development+and+reconstruction&sort=views_recent+desc&tags=capacity-building&ext_location=&ext_bbox=&ext_prev_extent="
-            ],
-            "Type": "Open Data"
+        "Safe environment": {
+            "Preventative protection measures": {
+                "Links": [
+                    "https://catalog.data.gov/dataset?q=National+natural+resource+benefits+sharing&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent="
+                ],
+                "Type": "Open Data"
+            }
         }
     },
     {
-        "Social funds, community-driven development and reconstruction": {
-            "Links": [
-                "https://catalog.data.gov/dataset?q=Transboundary+water+sharing&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent="
-            ],
-            "Type": "Open Data"
+        "Civil society": {
+            "Social funds, community-driven development and reconstruction": {
+                "Links": [
+                    "https://catalog.data.gov/dataset/?tags=media-influence",
+                    "https://catalog.data.gov/dataset/?tags=public-opinion"
+                ],
+                "Type": "Open Data"
+            }
+        }
+    },
+    {
+        "Social Inclusion": {
+            "Gender equality behaviour change": {
+                "Links": [
+                    "https://catalog.data.gov/dataset?q=Preventative+protection+measures&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent="
+                ],
+                "Type": "Open Data"
+            }
+        }
+    },
+    {
+        "Social Inclusion": {
+            "Gender equality behaviour change": {
+                "Links": [
+                    "https://catalog.data.gov/dataset/?q=Social+funds%2C+community-driven+development+and+reconstruction&sort=views_recent+desc&tags=capacity-building&ext_location=&ext_bbox=&ext_prev_extent="
+                ],
+                "Type": "Open Data"
+            }
+        }
+    },
+    {
+        "Social Inclusion": {
+            "Intergroup dialogues": {
+                "Links": [
+                    "https://data.humdata.org/dataset/?vocab_Topics=education&vocab_Topics=employment&vocab_Topics=internally+displaced+persons-idp&vocab_Topics=livelihoods&vocab_Topics=refugees&vocab_Topics=returnees&vocab_Topics=humanitarian+needs+overview-hno&q=&sort=last_modified+desc&ext_page_size=25"
+                ],
+                "Type": "Open Data"
+            }
+        }
+    },
+    {
+        "Social Inclusion": {
+            "Peace Messaging and Media": {
+                "Links": [
+                    "https://catalog.data.gov/dataset?q=Transboundary+water+sharing&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent="
+                ],
+                "Type": "Open Data"
+            }
+        }
+    },
+    {
+        "Social Inclusion": {
+            "Peace Messaging and Media": {
+                "Links": NaN,
+                "Type": "Open Data"
+            }
+        }
+    },
+    {
+        "Social Inclusion": {
+            "Dispute Resolution": {
+                "Links": NaN,
+                "Type": "Open Data"
+            }
+        }
+    },
+    {
+        "Social Inclusion": {
+            "Gender equality behaviour change": {
+                "Links": NaN,
+                "Type": "Open Data"
+            }
+        }
+    },
+    {
+        "Social Inclusion": {
+            "Intergroup dialogues": {
+                "Links": NaN,
+                "Type": "Open Data"
+            }
+        }
+    },
+    {
+        "Social Inclusion": {
+            "Social inclusion/ reintegration": {
+                "Links": NaN,
+                "Type": "Open Data"
+            }
         }
     }
 ]
