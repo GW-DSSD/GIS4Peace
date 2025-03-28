@@ -1,0 +1,39 @@
+[
+    {
+        "Governance": {
+            "Links": [
+                "https://catalog.data.gov/dataset/?q=governance&sort=views_recent+desc&tags=governance&ext_location=&ext_bbox=&ext_prev_extent="
+            ],
+            "Type": "Open Data"
+        }
+    },
+    {
+        "Human security and resilience": {
+            "Links": [
+                "https://catalog.data.gov/dataset/?q=%22community+safety%22&sort=score+desc%2C+name+asc&tags=community-safety&ext_location=&ext_bbox=&ext_prev_extent=",
+                "https://data.humdata.org/dataset/human-security",
+                "https://catalog.data.gov/dataset/?tags=resilience&_tags_limit=0"
+            ],
+            "Type": "Open Data"
+        }
+    },
+    {
+        "Social Cohesion and Trust": {
+            "Links": [
+                "https://catalog.data.gov/dataset/?q=%22social+capital%22&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent=&_tags_limit=0&tags=social+capital",
+                "https://catalog.data.gov/dataset/?tags=social-control",
+                "https://catalog.data.gov/dataset/?tags=social-attitudes"
+            ],
+            "Type": "Open Data"
+        }
+    },
+    {
+        "Violence Reduction": {
+            "Links": [
+                "https://catalog.data.gov/dataset/?tags=violence-reduction&_tags_limit=0",
+                "https://catalog.data.gov/dataset/?tags=crime-prevention"
+            ],
+            "Type": "Open Data"
+        }
+    }
+]
