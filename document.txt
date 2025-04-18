@@ -1,0 +1,4 @@
+1. Work on webscraping tool for HDX
+2. Add case study links 
+3. Modify webscraping code to not scrape already extracted data again.
+4. Automate the webscraping process with Github action
